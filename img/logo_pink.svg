@@ -2,53 +2,54 @@
 <svg
    data-v-2cb57da0=""
    version="1.0"
-   width="379"
-   height="115"
-   viewBox="0 0 379 115"
+   width="402"
+   height="120"
+   viewBox="0 0 402 120"
    preserveAspectRatio="xMidYMid meet"
    color-interpolation-filters="sRGB"
-   id="svg87"
-   sodipodi:docname="logo.svg"
+   id="svg85"
+   sodipodi:docname="10002 (2).svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs89" />
   <sodipodi:namedview
-     id="namedview89"
-     pagecolor="#ffff82"
+     id="namedview87"
+     pagecolor="#ffff93"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.56862745"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.100175"
-     inkscape:cx="50.446522"
-     inkscape:cy="108.61909"
+     inkscape:zoom="1.5558824"
+     inkscape:cx="131.43667"
+     inkscape:cy="30.529301"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg87" />
+     inkscape:current-layer="svg85" />
   <rect
      data-v-2cb57da0=""
-     x="38.563324"
-     y="80.669464"
-     width="391.85379"
-     height="50.474525%"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
      fill="#ffffff"
-     fill-opacity="1"
+     fill-opacity="0"
      class="background"
-     id="rect2"
-     style="stroke-width:0.762711" />
+     id="rect2" />
   <!---->
   <g
      data-v-2cb57da0=""
-     fill="#a7c5eb"
+     fill="#f757af"
      class="icon-text-wrapper icon-svg-group iconsvg"
-     transform="matrix(1.9977819,0,0,1.9934095,0.57011795,3.53945)"
+     transform="matrix(2.0507078,0,0,1.9878067,2.0032624,4)"
      id="g83">
     <g
        class="iconsvg-imagesvg"
@@ -56,21 +57,21 @@
       <g
          id="g39">
         <rect
-           fill="#a7c5eb"
+           fill="#f757af"
            fill-opacity="0"
            stroke-width="2"
            x="0"
            y="0"
-           width="60"
-           height="51.934563"
+           width="66"
+           height="57.128017"
            class="image-rect"
            id="rect4" />
         <svg
            x="0"
            y="0"
-           width="60"
-           height="51.934563"
-           filtersec="colorsb3440200325"
+           width="66"
+           height="57.128017"
+           filtersec="colorsb7804656050"
            class="image-svg-svg primary"
            style="overflow:visible"
            version="1.1"
@@ -84,7 +85,7 @@
             <defs
                id="defs11">
               <linearGradient
-                 id="32557929-70b7-451c-8a49-0325526608fb"
+                 id="e2bee52b-d1c5-4246-b86d-dabab915ef99"
                  x1="35.580002"
                  y1="86.589996"
                  x2="97.580002"
@@ -93,11 +94,11 @@
                  gradientUnits="userSpaceOnUse">
                 <stop
                    offset="0"
-                   stop-color="#949cdf"
+                   stop-color="#ffb2c2"
                    id="stop6" />
                 <stop
                    offset="1"
-                   stop-color="#cc5e7e"
+                   stop-color="#f85e8a"
                    id="stop8" />
               </linearGradient>
             </defs>
@@ -109,17 +110,17 @@
                  id="f1d53a6a-9d11-4667-8b9e-c2b3e6492a78">
                 <path
                    d="M 103.88,43.86 C 94.15,34 88,22.79 82.64,23.15 78.58,23.41 75.3,32 70.87,31.82 66.44,31.64 64.06,22.17 58.21,21.82 52.36,21.47 36.67,43.31 34.4,49.35 c -3.18,8.49 5.4,14.78 12.22,9.47 6.82,-5.31 11,-11.51 13.63,-11.51 2.63,0 5,9.91 9.82,9.91 4.82,0 9.56,-8.49 12.13,-9.22 5,-1.4 14.08,10.44 15.67,19.91 C 100,80.53 85.13,94.32 55.12,93.18 31.21,92.27 7.29,67.71 18.19,40.84 29.09,13.97 52.82,-1.63 80.44,0.14 c 27.62,1.77 36.51,27.31 34.1,38 -2.32,10.4 -7.48,8.95 -10.66,5.72 z"
-                   fill="url(#32557929-70b7-451c-8a49-0325526608fb)"
+                   fill="url(#e2bee52b-d1c5-4246-b86d-dabab915ef99)"
                    id="path15"
-                   style="fill:url(#32557929-70b7-451c-8a49-0325526608fb)" />
+                   style="fill:url(#e2bee52b-d1c5-4246-b86d-dabab915ef99)" />
                 <path
                    d="m 91.27,53.87 c -3.08,-3.95 -6.59,-6.55 -9.1,-5.85 -2.51,0.7 -7.35,9.2 -12.13,9.2 -4.78,0 -7.16,-9.91 -9.82,-9.91 -2.66,0 -6.82,6.2 -13.63,11.51 -6.81,5.31 -15.4,-1 -12.22,-9.47 2.27,-6 18,-27.88 23.81,-27.53 5.81,0.35 8.24,9.83 12.66,10 4.42,0.17 7.71,-8.41 11.77,-8.67 2.07,-0.14 4.23,1.41 6.66,3.92 C 78.51,13.89 57.79,9.34 39.86,12 24.53,14.3 11.24,21.87 8,33.84 4.76,45.81 8.6,54.9 16.27,61.55 c 25.28,21.94 91.37,16.58 75,-7.68 z"
-                   fill="#cc5e7e"
+                   fill="#ff0098"
                    opacity="0.6"
                    id="path17" />
                 <path
                    d="m 82.2,48 c -2.57,0.71 -7.35,9.2 -12.13,9.2 -4.78,0 -7.16,-9.91 -9.82,-9.91 -2.66,0 -6.82,6.2 -13.63,11.51 -6.81,5.31 -15.4,-1 -12.22,-9.47 0.86,-2.28 3.64,-6.82 7.07,-11.57 C 28.38,55 26.09,71.47 30,83.26 L 31.35,84.34 30,83.26 c 3.72,11.25 13.08,18.2 24.07,17.33 5.33,-0.43 10.7,-3.74 15.78,-8.15 v 0 C 83.79,80.32 95.49,59.88 97.85,67.93 96.28,58.46 87.23,46.62 82.2,48 Z M 55.12,93.18 a 42.71,42.71 0 0 1 -23.71,-8.81 42.64,42.64 0 0 0 23.72,8.81 78.46,78.46 0 0 0 14.29,-0.69 78.57,78.57 0 0 1 -14.3,0.69 z"
-                   fill="#cc5e7e"
+                   fill="#6d59d1"
                    opacity="0.5"
                    style="isolation:isolate"
                    id="path19" />
@@ -128,24 +129,24 @@
                    id="g25">
                   <path
                      d="m 109.78,9.37 a 10.68,10.68 0 0 0 -8.63,-1.75 35.88,35.88 0 0 1 10.24,12.75 c 1.82,-4.37 2.2,-8.24 -1.61,-11 z"
-                     fill="#a7c5eb"
+                     fill="#ff8d27"
                      id="path21" />
                   <path
                      d="m 101.15,7.65 c -13.42,2.54 -29,24.4 -35.21,20.37 1.56,2 3.06,3.73 4.93,3.8 C 75.3,32 78.58,23.41 82.64,23.15 88,22.79 94.15,34 103.88,43.86 c -3.8,-6.31 4.22,-15.61 7.51,-23.49 A 35.87,35.87 0 0 0 101.15,7.65 Z"
-                     fill="#a7c5eb"
+                     fill="#ff8d27"
                      id="path23" />
                 </g>
                 <path
                    d="m 101.68,55 c -2.78,1.81 6.1,21.57 12.3,17.56 6.2,-4.01 -9.53,-19.4 -12.3,-17.56 z M 14.93,69.64 c 2,1.64 -1.86,9.93 -6.4,6.3 -4.54,-3.63 4.37,-7.94 6.4,-6.3 z"
-                   fill="#949cdf"
+                   fill="#f757af"
                    id="path27" />
                 <path
                    d="m 108.79,51.91 c -3.46,1.37 4.56,7.83 7,4.85 2.44,-2.98 -4.79,-5.76 -7,-4.85 z M 70.66,95.56 c -0.83,3.57 4.14,3.64 3.11,0.12 -0.58,-2.01 -2.64,-2.1 -3.11,-0.12 z"
-                   fill="#949cdf"
+                   fill="#ab8eeb"
                    id="path29" />
                 <path
                    d="m 12.61,65.21 c -1.66,2.29 -6.29,5.18 -10,4.25 -3.1,-0.79 -5.6,-9.18 5.75,-7.76 6.47,0.82 5.04,2.41 4.25,3.51 z"
-                   fill="#a7c5eb"
+                   fill="#ffbd88"
                    id="path31" />
               </g>
             </g>
@@ -155,7 +156,7 @@
       </g>
     </g>
     <g
-       transform="translate(72,5.3894463)"
+       transform="translate(78,7.9861755)"
        id="g81">
       <g
          fill-rule=""
@@ -166,8 +167,8 @@
           <g
              id="g56">
             <g
-               mask="url(#5Q2OUigqQs0dUy4ZQBQe3)"
-               filter="url(#text-effect-stroke-shadow-L_2g5jxN3bSAsh5ZW5MXn)"
+               mask="url(#B9VjvFzqpP6Uyoi4HCce0)"
+               filter="url(#text-effect-stroke-shadow-mIUNx8ZsoM6IU2NV0luBL)"
                stroke="#000000"
                stroke-width="1"
                stroke-linecap="round"
@@ -183,7 +184,7 @@
             <defs
                id="defs54">
               <filter
-                 id="text-effect-stroke-shadow-L_2g5jxN3bSAsh5ZW5MXn"
+                 id="text-effect-stroke-shadow-mIUNx8ZsoM6IU2NV0luBL"
                  filterUnits="objectBoundingBox"
                  width="1.0086207"
                  height="1.0532765"
@@ -193,11 +194,11 @@
                    dx="1.5"
                    dy="1.5"
                    stdDeviation="0"
-                   flood-color="#fca739"
+                   flood-color="#CCCCCC"
                    flood-opacity="1" />
               </filter>
               <filter
-                 id="text-effect-stroke-shadow-mask-L_2g5jxN3bSAsh5ZW5MXn"
+                 id="text-effect-stroke-shadow-mask-mIUNx8ZsoM6IU2NV0luBL"
                  filterUnits="objectBoundingBox"
                  width="1.0086207"
                  height="1.0532765"
@@ -211,9 +212,9 @@
                    flood-opacity="1" />
               </filter>
               <mask
-                 id="5Q2OUigqQs0dUy4ZQBQe3">
+                 id="B9VjvFzqpP6Uyoi4HCce0">
                 <g
-                   filter="url(#text-effect-stroke-shadow-mask-L_2g5jxN3bSAsh5ZW5MXn)"
+                   filter="url(#text-effect-stroke-shadow-mask-mIUNx8ZsoM6IU2NV0luBL)"
                    stroke="#000000"
                    stroke-width="1"
                    stroke-linecap="round"
@@ -238,15 +239,15 @@
                transform="scale(0.98205)"
                id="g73">
               <g
-                 mask="url(#XYU-phhmbxItiVVrIESmA)"
-                 filter="url(#text-effect-stroke-shadow-L_2g5jxN3bSAsh5ZW5MXn)"
+                 mask="url(#cXO41aJNYdCtxHMBkPZXV)"
+                 filter="url(#text-effect-stroke-shadow-mIUNx8ZsoM6IU2NV0luBL)"
                  stroke="#000000"
                  stroke-width="1"
                  stroke-linecap="round"
                  stroke-linejoin="round"
                  paint-order="stroke"
                  data-gra-ignore-stroke="true"
-                 fill="#949cdf"
+                 fill="#f757af"
                  id="g60">
                 <path
                    d="m 8.73,0.25 q -2.1,0 -3.97,-0.56 -1.87,-0.56 -3.04,-1.52 v 0 Q 1.09,-2.29 1.09,-3.14 v 0 q 0,-0.57 0.34,-0.99 0.34,-0.43 0.81,-0.43 v 0 q 0.49,0 1.12,0.38 v 0 q 1.17,0.85 2.45,1.23 1.29,0.38 2.84,0.38 v 0 q 1.99,0 3.06,-0.69 1.06,-0.7 1.06,-2.03 v 0 q 0,-1.04 -0.99,-1.6 -1,-0.56 -3.32,-1.08 v 0 q -2.4,-0.52 -3.9,-1.2 -1.5,-0.68 -2.27,-1.75 -0.76,-1.06 -0.76,-2.7 v 0 q 0,-1.69 0.95,-3.03 0.96,-1.33 2.66,-2.09 1.71,-0.75 3.84,-0.75 v 0 q 3.9,0 6.36,2.08 v 0 q 0.35,0.3 0.5,0.58 0.15,0.29 0.15,0.73 v 0 q 0,0.57 -0.34,0.99 -0.34,0.43 -0.8,0.43 v 0 q -0.28,0 -0.51,-0.08 -0.23,-0.09 -0.61,-0.3 v 0 q -1.12,-0.82 -2.17,-1.22 -1.05,-0.4 -2.58,-0.4 v 0 q -1.86,0 -2.93,0.76 -1.08,0.75 -1.08,2.08 v 0 q 0,1.12 0.95,1.72 0.96,0.6 3.25,1.12 v 0 q 2.43,0.55 3.94,1.22 1.52,0.66 2.32,1.7 0.81,1.04 0.81,2.59 v 0 q 0,1.7 -0.94,2.99 -0.94,1.3 -2.65,2.02 -1.71,0.73 -3.92,0.73 z m 34.53,-18.56 q 0.19,-0.55 0.61,-0.82 0.42,-0.27 0.94,-0.27 v 0 q 0.66,0 1.13,0.41 0.48,0.4 0.48,1.09 v 0 q 0,0.24 -0.13,0.71 v 0 l -5.87,16.23 q -0.22,0.55 -0.72,0.85 -0.51,0.3 -1.11,0.3 v 0 q -0.6,0 -1.12,-0.3 -0.52,-0.3 -0.71,-0.85 v 0 l -4.53,-12.85 -4.61,12.85 q -0.22,0.55 -0.72,0.85 -0.51,0.3 -1.11,0.3 v 0 q -0.6,0 -1.1,-0.3 -0.51,-0.3 -0.7,-0.85 v 0 l -5.87,-16.23 q -0.14,-0.41 -0.14,-0.71 v 0 q 0,-0.69 0.51,-1.09 0.5,-0.41 1.19,-0.41 v 0 q 0.54,0 0.98,0.27 0.44,0.27 0.63,0.82 v 0 l 4.64,13.34 4.77,-13.26 q 0.19,-0.55 0.63,-0.86 0.44,-0.31 0.96,-0.31 v 0 q 0.51,0 0.96,0.31 0.45,0.31 0.65,0.89 v 0 l 4.64,13.4 z M 51.12,0 q -0.79,0 -1.25,-0.44 -0.45,-0.43 -0.45,-1.22 v 0 -15.92 q 0,-0.79 0.45,-1.22 0.46,-0.44 1.25,-0.44 v 0 h 9.85 q 0.79,0 1.23,0.35 0.43,0.36 0.43,1.01 v 0 q 0,0.69 -0.43,1.05 -0.44,0.37 -1.23,0.37 v 0 h -8.11 v 5.3 h 7.56 q 0.79,0 1.23,0.35 0.44,0.36 0.44,1.04 v 0 q 0,0.65 -0.44,1.01 -0.44,0.35 -1.23,0.35 v 0 h -7.56 v 5.63 h 8.11 q 0.79,0 1.23,0.36 0.43,0.37 0.43,1.06 v 0 q 0,0.65 -0.43,1.01 Q 61.76,0 60.97,0 V 0 Z M 67.19,0 Q 66.4,0 65.95,-0.44 65.5,-0.87 65.5,-1.66 v 0 -15.92 q 0,-0.79 0.45,-1.22 0.45,-0.44 1.24,-0.44 v 0 h 9.85 q 0.79,0 1.23,0.35 0.44,0.36 0.44,1.01 v 0 q 0,0.69 -0.44,1.05 -0.44,0.37 -1.23,0.37 v 0 h -8.1 v 5.3 h 7.56 q 0.79,0 1.23,0.35 0.43,0.36 0.43,1.04 v 0 q 0,0.65 -0.43,1.01 -0.44,0.35 -1.23,0.35 v 0 h -7.56 v 5.63 h 8.1 q 0.79,0 1.23,0.36 0.44,0.37 0.44,1.06 v 0 q 0,0.65 -0.44,1.01 Q 77.83,0 77.04,0 v 0 z m 20.72,0.14 q -0.82,0 -1.3,-0.48 -0.48,-0.48 -0.48,-1.27 v 0 -14.74 h -4.97 q -1.63,0 -1.63,-1.44 v 0 q 0,-1.45 1.63,-1.45 v 0 h 13.46 q 1.64,0 1.64,1.45 v 0 q 0,1.44 -1.64,1.44 v 0 h -4.97 v 14.74 q 0,0.79 -0.48,1.27 -0.47,0.48 -1.26,0.48 z m 12.17,0.02 q -0.79,0 -1.27,-0.49 -0.48,-0.49 -0.48,-1.28 v 0 -16.02 q 0,-0.79 0.48,-1.27 0.48,-0.48 1.27,-0.48 v 0 q 0.82,0 1.29,0.48 0.48,0.48 0.48,1.27 v 0 16.02 q 0,0.79 -0.48,1.28 -0.47,0.49 -1.29,0.49 z M 107.69,0 Q 106.9,0 106.45,-0.44 106,-0.87 106,-1.66 v 0 -15.92 q 0,-0.79 0.45,-1.22 0.45,-0.44 1.24,-0.44 v 0 h 9.85 q 0.8,0 1.23,0.35 0.44,0.36 0.44,1.01 v 0 q 0,0.69 -0.44,1.05 -0.43,0.37 -1.23,0.37 v 0 h -8.1 v 5.3 H 117 q 0.79,0 1.23,0.35 0.43,0.36 0.43,1.04 v 0 q 0,0.65 -0.43,1.01 -0.44,0.35 -1.23,0.35 v 0 h -7.56 v 5.63 h 8.1 q 0.8,0 1.23,0.36 0.44,0.37 0.44,1.06 v 0 q 0,0.65 -0.44,1.01 Q 118.34,0 117.54,0 v 0 z"
@@ -266,7 +267,7 @@
                      dx="1.5"
                      dy="1.5"
                      stdDeviation="0"
-                     flood-color="#fca739"
+                     flood-color="#CCCCCC"
                      flood-opacity="1" />
                 </filter>
                 <filter
@@ -284,9 +285,9 @@
                      flood-opacity="1" />
                 </filter>
                 <mask
-                   id="XYU-phhmbxItiVVrIESmA">
+                   id="cXO41aJNYdCtxHMBkPZXV">
                   <g
-                     filter="url(#text-effect-stroke-shadow-mask-L_2g5jxN3bSAsh5ZW5MXn)"
+                     filter="url(#text-effect-stroke-shadow-mask-mIUNx8ZsoM6IU2NV0luBL)"
                      stroke="#000000"
                      stroke-width="1"
                      stroke-linecap="round"
@@ -310,7 +311,4 @@
       <!---->
     </g>
   </g>
-  <defs
-     v-gra="od"
-     id="defs85" />
 </svg>
