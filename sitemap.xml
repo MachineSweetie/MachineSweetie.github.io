@@ -1,39 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://dhfs.github.io/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-      
-        http://machinesweetie.github.io/about/google1e5497d3396e5f26.html
-        
-        2022-05-07T15:32:42.640Z
-        
-      
-      
-      
-        http://machinesweetie.github.io/about/index.html
-        
-        2022-05-07T15:24:28.921Z
-        
-      
-      
-      
-        http://machinesweetie.github.io/ZONE/validation/google1e5497d3396e5f26.html
-        
-        2022-05-07T15:11:07.355Z
-        
-      
-      
-      
-        http://machinesweetie.github.io/2022/05/06/machine%20sweetie%20post/
-        
-        2022-05-06T22:47:32.497Z
-        
-      
-      
-      
-        http://machinesweetie.github.io/2022/05/06/2/
-        
-        2022-05-06T11:04:49.206Z
-        
-      
-      
+  <url>
+    <loc>http://example.com/about/google1e5497d3396e5f26.html</loc>
+    
+    <lastmod>2022-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2022-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/ZONE/validation/google1e5497d3396e5f26.html</loc>
+    
+    <lastmod>2022-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/05/06/machine%20sweetie%20post/</loc>
+    
+    <lastmod>2022-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/05/06/2/</loc>
+    
+    <lastmod>2022-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/blog/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/hexo/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/categories/web/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>
